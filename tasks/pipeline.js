@@ -29,7 +29,6 @@ var jsFilesToInject = [
   "js/dependencies/angular-animate/angular-animate.min.js",
   "js/dependencies/angular-materialize/src/angular-materialize.js",
 
-  'js/**/*.js'
 ];
 
 var templateFilesToInject = [
